@@ -1,2 +1,2 @@
-# tetris_battle
+##### tetris battle
 A console mode of Tetris battle
