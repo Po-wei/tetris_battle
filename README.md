@@ -6,5 +6,7 @@ A console version of Tetris battle written in C++
  * set "./deps/lib" as additional libaray directory 
  * linker -lconio
 
- #Some game snapshot 
- 
+#Some game snapshot 
+![demo1](https://github.com/Po-wei/tetris_battle/blob/master/demo/demo1.PNG)
+![demo2](https://github.com/Po-wei/tetris_battle/blob/master/demo/demo2.PNG)
+![demo3](https://github.com/Po-wei/tetris_battle/blob/master/demo/demo3.PNG)
