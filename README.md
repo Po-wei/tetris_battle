@@ -1,4 +1,4 @@
-# tetris battle
+#Tetris Battle
 A console version of Tetris battle written in C++
 
 #How to build
@@ -10,3 +10,6 @@ A console version of Tetris battle written in C++
 ![demo1](https://github.com/Po-wei/tetris_battle/blob/master/demo/demo1.PNG)
 ![demo2](https://github.com/Po-wei/tetris_battle/blob/master/demo/demo2.PNG)
 ![demo3](https://github.com/Po-wei/tetris_battle/blob/master/demo/demo3.PNG)
+
+#Contact
+ if you have any questions you can email to b02502129@ntu.edu.tw
